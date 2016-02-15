@@ -1,0 +1,14 @@
+layout_spectrum: 0.06390974
+typography_spectrum: 0.7309344
+color:
+  saturation: 0.5741138
+  brandStrength: 0.8308671
+  lightness: 0.8426423
+  brandColors:
+    - '#28271F'
+    - '#F0F2FF'
+    - '#A39153'
+    - '#2066B2'
+    - '#94D7FF'
+  rhythmicContrast: 0.4915176
+name: The Grand White
