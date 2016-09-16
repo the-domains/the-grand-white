@@ -28,4 +28,7 @@ cta:
   bucket: null
   version: null
 favicon: null
-purpose: []
+purpose:
+  - type: external
+    url: 'http://grandwhitedinner.nutickets.co.za'
+    label: Tickets
