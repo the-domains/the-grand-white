@@ -1,19 +1,4 @@
-name: The Grand White
-favicon: null
-layout_spectrum: 0.6165
 typography_spectrum: 0.7309344
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#28271F'
@@ -25,4 +10,22 @@ color:
   lightness: 0.8426423
   saturation: 0.5741138
   rhythmicContrast: 0.4915176
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6165
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7da3729a-32b2-4216-bb7d-d3e371497a43.jpg
+name: The Grand White
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
