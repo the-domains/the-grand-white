@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Grand White]]></title>
+        <description><![CDATA[The Grand White]]></description>
+        <link>https://thegrid.ai/the-grand-white/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 16 Sep 2016 08:40:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-grand-white/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[White]]></title>
+            <description><![CDATA[<article><h1>White</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60429468f2bc2b6eba05ff302598633661a00436.png"></article>]]></description>
+            <link>urn:uuid:bd69ae6f-9c75-4ef4-aaff-db56d8c962bb</link>
+            <guid isPermaLink="false">581634eb-44bd-4212-8922-dd6e5611f730</guid>
+            <pubDate>Fri, 16 Sep 2016 08:40:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
